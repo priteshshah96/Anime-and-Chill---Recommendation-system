@@ -4,9 +4,10 @@ Anime and  Chill - Recommendation System
 Welcome to the Anime Recommendation System project! This project uses Apache Spark's MLlib to build a recommendation system based on user ratings data. Our goal is to provide personalized anime recommendations using collaborative filtering techniques implemented with the Alternating Least Squares (ALS) algorithm.
 
 Features
-Collaborative Filtering: Utilize user ratings to predict and recommend anime titles.
-Cosine Similarity: Analyze similarities between different animes to refine recommendations.
-Data Visualization: Plot and compare the actual ratings against predictions to evaluate the model performance.
+* Collaborative Filtering: Utilize user ratings to predict and recommend anime titles.
+* Cosine Similarity: Analyze similarities between different animes to refine recommendations.
+* Data Visualization: Plot and compare the actual ratings against predictions to evaluate the model performance.
+  
 Project Structure
 ```bash
 /root
@@ -42,6 +43,6 @@ Authors
 * Navdeep Meltchu
 
 Acknowledgments
-kaggle.com
-myanimelist.com
-Special thanks to all the anime fans out there!
+* kaggle.com
+* myanimelist.com
+* Special thanks to all the anime fans out there!
