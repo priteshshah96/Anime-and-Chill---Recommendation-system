@@ -29,17 +29,17 @@ Prerequisites
 * Java 8
 
 API Documentation
-recommend_for_user(user_id)
-Returns a list of recommended anime titles for a given user.
+* recommend_for_user(user_id)
+* Returns a list of recommended anime titles for a given user.
 
 Parameters:
-user_id (int): The ID of the user for whom recommendations are to be made.
+*user_id (int): The ID of the user for whom recommendations are to be made.
 
 Authors
-Pritesh Shah
-Ankit Singh Chauhan
-Amritha Prakash
-Navdeep Meltchu
+* Pritesh Shah
+* Ankit Singh Chauhan
+* Amritha Prakash
+* Navdeep Meltchu
 
 Acknowledgments
 kaggle.com
