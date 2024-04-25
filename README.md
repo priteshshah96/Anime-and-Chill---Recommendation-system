@@ -23,10 +23,10 @@ Project Structure
 
 ```
 Prerequisites
-Apache Spark 3.2.0
-Python 3.7 or higher
-Libraries: Pandas, NumPy, Matplotlib, FindSpark
-Java 8
+* Apache Spark 3.2.0
+* Python 3.7 or higher
+* Libraries: Pandas, NumPy, Matplotlib, FindSpark
+* Java 8
 
 API Documentation
 recommend_for_user(user_id)
