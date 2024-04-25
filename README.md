@@ -1,6 +1,6 @@
 # Anime-and-Chill---Recommendation-system
 We create a Anime recommendation syatem using Pyspark
-Anime Recommendation System
+Anime and  Chill - Recommendation System
 Welcome to the Anime Recommendation System project! This project uses Apache Spark's MLlib to build a recommendation system based on user ratings data. Our goal is to provide personalized anime recommendations using collaborative filtering techniques implemented with the Alternating Least Squares (ALS) algorithm.
 
 Features
@@ -8,8 +8,7 @@ Collaborative Filtering: Utilize user ratings to predict and recommend anime tit
 Cosine Similarity: Analyze similarities between different animes to refine recommendations.
 Data Visualization: Plot and compare the actual ratings against predictions to evaluate the model performance.
 Project Structure
-bash
-Copy code
+```bash
 /root
 │
 ├── preprocessed_data
@@ -22,7 +21,7 @@ Copy code
 │      
 └── README.md              # Project documentation
 
-
+```
 Prerequisites
 Apache Spark 3.2.0
 Python 3.7 or higher
