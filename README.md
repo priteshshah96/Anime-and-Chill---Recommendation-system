@@ -38,10 +38,10 @@ Parameters:
 *user_id (int): The ID of the user for whom recommendations are to be made.
 
 Authors
-* Pritesh Shah
 * Ankit Singh Chauhan
 * Amritha Prakash
 * Navdeep Meltchu
+* Pritesh Shah
 
 Acknowledgments
 * kaggle.com
