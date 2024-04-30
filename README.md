@@ -19,15 +19,24 @@ Project Structure
 │   └── user.csv           # User demographic data (optional)
 │
 ├── notebooks                    # Source files for the project
-│   ├── recommendation.ipynb  # Main script for the recommendation system
+│   ├── Recommendation_system.ipynb  # Main script for the recommendation system
+|   ├── Pre-Processing book.ipynb # Preprocessing script for data cleaning
 │      
+|
+├── data                    # Source files for the project
+│   ├── updated_anime_cleaned.zip  # After preprocessing dataset for Animes
+│   ├── updated_ratings_cleaned.zip  # After preprocessing dataset for Ratings
+│   ├── updated_users_cleaned.zip  # After preprocessing dataset for Users
+|
+├── model12     # Exported model - for recommendation of animes from ALS training
+|
 └── README.md              # Project documentation
 
 ```
 Prerequisites
 * Apache Spark 3.2.0
 * Python 3.7 or higher
-* Libraries: Pandas, NumPy, Matplotlib, FindSpark
+* Libraries: Pandas, NumPy, Matplotlib, FindSpark, Pyspark
 * Java 8
 
 API Documentation
