@@ -20,16 +20,16 @@ Project Structure
 │
 ├── notebooks                    # Source files for the project
 │   ├── Recommendation_system.ipynb  # Main script for the recommendation system
-|   ├── Pre-Processing book.ipynb # Preprocessing script for data cleaning
-│      
-|
+│   ├── Pre-Processing book.ipynb # Preprocessing script for data cleaning
+│
+│
 ├── data                    # Source files for the project
 │   ├── updated_anime_cleaned.zip  # After preprocessing dataset for Animes
 │   ├── updated_ratings_cleaned.zip  # After preprocessing dataset for Ratings
 │   ├── updated_users_cleaned.zip  # After preprocessing dataset for Users
-|
+│
 ├── model12     # Exported model - for recommendation of animes from ALS training
-|
+│
 └── README.md              # Project documentation
 
 ```
